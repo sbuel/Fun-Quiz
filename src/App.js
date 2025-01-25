@@ -10,6 +10,22 @@ const questions = [
     text: 'What motivates you most?',
     options: ['Making an impact', 'Achievement', 'Solving problems']
   }
+
+  const questions = [
+  {
+    text: 'Which environment do you thrive in?',
+    options: ['Fast-paced', 'Structured', 'Creative']
+  },
+  {
+    text: 'What motivates you most?',
+    options: ['Making an impact', 'Achievement', 'Solving problems']
+  },
+  {
+    text: 'How do you prefer to work?',
+    options: ['Independently', 'In collaborative teams', 'With direct interaction with people']
+  }
+];
+
 ];
 
 // Example career recommendations
