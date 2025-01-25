@@ -21,9 +21,7 @@ const questions = [
     options: ['Making an impact', 'Achievement', 'Solving problems']
   },
   {
-    text: 'How do you prefer to work?',
-    options: ['Independently', 'In collaborative teams', 'With direct interaction with people']
-  }
+    
 ];
 
 ];
